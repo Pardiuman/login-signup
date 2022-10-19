@@ -45,3 +45,16 @@ and then we create class UserService where we make a function createUser for cre
 
 And finally we have to make beans for jdbc driver and Hibernatetemplate and we are done
 hurray:)))))
+
+## Signup page
+
+![Signuppage](screenshots/registration.png)
+
+## login page
+![loginpage](screenshots/login.png)
+
+## contactus
+![contactus](screenshots/contactus.png)
+
+## user data in console
+![userdata](screenshots/database.png)
